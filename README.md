@@ -1,5 +1,5 @@
 # CSS Loading
 
-![Loading...](.\assets\cssLoading-animation.gif)
+![Loading...](https://github.com/kedarreibos/cssLoading/blob/main/assets/cssLoading-animation.gif)
 
 Simple CSS text animation
